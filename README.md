@@ -15,7 +15,6 @@ Nuxt is a free and open-source framework with an intuitive and extendable way to
 
 It provides a number of features that make it easy to build fast, SEO-friendly, and scalable web applications, including:
 - Server-side rendering, Static Site Generation, Hybrid Rendering and Edge-Side Rendering
-- Automatic routing with code-splitting and pre-fetching
 - Data fetching and state management
 - SEO Optimization and Meta tags definition
 - Auto imports of components, composables and utils
