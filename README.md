@@ -53,7 +53,7 @@ npm create nuxt <my-project>
 ## <a name="vue-development">💻 Vue Development</a>
 
 Simple, intuitive and powerful, Nuxt lets you write Vue components in a way that makes sense. Every repetitive task is automated, so you can focus on writing your full-stack Vue application with confidence.
-
+sdfsdafasdfasdfsdfsadf
 Example of an `app.vue`:
 
 ```vue
