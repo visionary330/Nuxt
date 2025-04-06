@@ -22,7 +22,7 @@ It provides a number of features that make it easy to build fast, SEO-friendly, 
 - Extensible with [200+ modules](https://nuxt.com/modules)
 - Deployment to a variety of [hosting platforms](https://nuxt.com/deploy)
 - ...[and much more](https://nuxt.com) 🚀
-
+safsdfasdf
 ### Table of Contents
 
 - 🚀 [Getting Started](#getting-started)
